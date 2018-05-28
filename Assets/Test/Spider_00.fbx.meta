@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 3a0948f5768f19e44b51c4ee2ee76617
+timeCreated: 1512635778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Front
+    100002: Head
+    100004: Hips
+    100006: Left_back_Claw
+    100008: Left_back_Leg
+    100010: Left_back_UpLeg
+    100012: Left_front_Claw
+    100014: Left_front_Leg
+    100016: Left_front_UpLeg
+    100018: Left_Midle_Claw
+    100020: Left_Midle_Leg
+    100022: Left_Midle_UpLeg
+    100024: Move_All
+    100026: odwlok
+    100028: Right_Back_Claw
+    100030: Right_Back_Leg
+    100032: Right_Back_UpLeg
+    100034: Right_front_Claw
+    100036: Right_front_Leg
+    100038: Right_front_UpLeg
+    100040: Right_Midle_Claw
+    100042: Right_Midle_Leg
+    100044: Right_Midle_UpLeg
+    100046: //RootNode
+    100048: spider_01:Spider_00:Spider_00
+    100050: Tail
+    400000: Front
+    400002: Head
+    400004: Hips
+    400006: Left_back_Claw
+    400008: Left_back_Leg
+    400010: Left_back_UpLeg
+    400012: Left_front_Claw
+    400014: Left_front_Leg
+    400016: Left_front_UpLeg
+    400018: Left_Midle_Claw
+    400020: Left_Midle_Leg
+    400022: Left_Midle_UpLeg
+    400024: Move_All
+    400026: odwlok
+    400028: Right_Back_Claw
+    400030: Right_Back_Leg
+    400032: Right_Back_UpLeg
+    400034: Right_front_Claw
+    400036: Right_front_Leg
+    400038: Right_front_UpLeg
+    400040: Right_Midle_Claw
+    400042: Right_Midle_Leg
+    400044: Right_Midle_UpLeg
+    400046: //RootNode
+    400048: spider_01:Spider_00:Spider_00
+    400050: Tail
+    4300000: spider_01:Spider_00:Spider_00
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: spider_01:Spider_00:Spider_00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 500
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/Front
+        weight: 1
+      - path: Hips/Front/Head
+        weight: 1
+      - path: Hips/Front/Left_front_UpLeg
+        weight: 1
+      - path: Hips/Front/Left_front_UpLeg/Left_front_Leg
+        weight: 1
+      - path: Hips/Front/Left_front_UpLeg/Left_front_Leg/Left_front_Claw
+        weight: 1
+      - path: Hips/Front/Left_Midle_UpLeg
+        weight: 1
+      - path: Hips/Front/Left_Midle_UpLeg/Left_Midle_Leg
+        weight: 1
+      - path: Hips/Front/Left_Midle_UpLeg/Left_Midle_Leg/Left_Midle_Claw
+        weight: 1
+      - path: Hips/Front/Right_front_UpLeg
+        weight: 1
+      - path: Hips/Front/Right_front_UpLeg/Right_front_Leg
+        weight: 1
+      - path: Hips/Front/Right_front_UpLeg/Right_front_Leg/Right_front_Claw
+        weight: 1
+      - path: Hips/Front/Right_Midle_UpLeg
+        weight: 1
+      - path: Hips/Front/Right_Midle_UpLeg/Right_Midle_Leg
+        weight: 1
+      - path: Hips/Front/Right_Midle_UpLeg/Right_Midle_Leg/Right_Midle_Claw
+        weight: 1
+      - path: Hips/odwlok
+        weight: 1
+      - path: Hips/odwlok/Left_back_UpLeg
+        weight: 1
+      - path: Hips/odwlok/Left_back_UpLeg/Left_back_Leg
+        weight: 1
+      - path: Hips/odwlok/Left_back_UpLeg/Left_back_Leg/Left_back_Claw
+        weight: 1
+      - path: Hips/odwlok/Right_Back_UpLeg
+        weight: 1
+      - path: Hips/odwlok/Right_Back_UpLeg/Right_Back_Leg
+        weight: 1
+      - path: Hips/odwlok/Right_Back_UpLeg/Right_Back_Leg/Right_Back_Claw
+        weight: 1
+      - path: Hips/odwlok/Tail
+        weight: 1
+      - path: Move_All
+        weight: 1
+      - path: spider_01:Spider_00:Spider_00
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

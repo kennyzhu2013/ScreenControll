@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: 9e4c6b21230972a40b5d22289bd8a955
+timeCreated: 1512635699
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Dragon_Ctrl
+    100004: Dragon_msh
+    100006: Dragon_scale
+    100008: DragonCoral
+    100010: DragonHead
+    100012: DragonHips
+    100014: DragonJaw
+    100016: DragonJawEnd
+    100018: DragonLeftArm
+    100020: DragonLeftFoot
+    100022: DragonLeftFootEnd
+    100024: DragonLeftLeg
+    100026: DragonLeftLeg1
+    100028: DragonLeftUpLeg
+    100030: DragonLeftWing
+    100032: DragonLeftWing1
+    100034: DragonLeftWing2
+    100036: DragonLeftWing2End
+    100038: DragonNeck
+    100040: DragonNeck1
+    100042: DragonRightArm
+    100044: DragonRightFoot
+    100046: DragonRightFootEnd
+    100048: DragonRightLeg
+    100050: DragonRightLeg1
+    100052: DragonRightUpLeg
+    100054: DragonRightWing
+    100056: DragonRightWing1
+    100058: DragonRightWing2
+    100060: DragonRightWing2End
+    100062: DragonSpin
+    100064: DragonTail
+    100066: DragonTail1
+    100068: DragonTail2
+    100070: DragonTail3
+    100072: DragonTail4
+    100074: Dragontransform1
+    100076: Dragontransform2
+    100078: transform1
+    400000: //RootNode
+    400002: Dragon_Ctrl
+    400004: Dragon_msh
+    400006: Dragon_scale
+    400008: DragonCoral
+    400010: DragonHead
+    400012: DragonHips
+    400014: DragonJaw
+    400016: DragonJawEnd
+    400018: DragonLeftArm
+    400020: DragonLeftFoot
+    400022: DragonLeftFootEnd
+    400024: DragonLeftLeg
+    400026: DragonLeftLeg1
+    400028: DragonLeftUpLeg
+    400030: DragonLeftWing
+    400032: DragonLeftWing1
+    400034: DragonLeftWing2
+    400036: DragonLeftWing2End
+    400038: DragonNeck
+    400040: DragonNeck1
+    400042: DragonRightArm
+    400044: DragonRightFoot
+    400046: DragonRightFootEnd
+    400048: DragonRightLeg
+    400050: DragonRightLeg1
+    400052: DragonRightUpLeg
+    400054: DragonRightWing
+    400056: DragonRightWing1
+    400058: DragonRightWing2
+    400060: DragonRightWing2End
+    400062: DragonSpin
+    400064: DragonTail
+    400066: DragonTail1
+    400068: DragonTail2
+    400070: DragonTail3
+    400072: DragonTail4
+    400074: Dragontransform1
+    400076: Dragontransform2
+    400078: transform1
+    4300000: Dragon_msh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Dragon_msh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 430
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Dragon_Ctrl
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_msh
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonLeftUpLeg
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonLeftUpLeg/DragonLeftLeg
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonLeftUpLeg/DragonLeftLeg/DragonLeftLeg1
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonLeftUpLeg/DragonLeftLeg/DragonLeftLeg1/Dragontransform1
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonLeftUpLeg/DragonLeftLeg/DragonLeftLeg1/Dragontransform1/DragonLeftFoot
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonLeftUpLeg/DragonLeftLeg/DragonLeftLeg1/Dragontransform1/DragonLeftFoot/DragonLeftFootEnd
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonRightUpLeg
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonRightUpLeg/DragonRightLeg
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonRightUpLeg/DragonRightLeg/DragonRightLeg1
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonRightUpLeg/DragonRightLeg/DragonRightLeg1/Dragontransform2
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonRightUpLeg/DragonRightLeg/DragonRightLeg1/Dragontransform2/DragonRightFoot
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonRightUpLeg/DragonRightLeg/DragonRightLeg1/Dragontransform2/DragonRightFoot/DragonRightFootEnd
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonLeftArm
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonLeftWing
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonLeftWing/DragonLeftWing1
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonLeftWing/DragonLeftWing1/DragonLeftWing2
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonLeftWing/DragonLeftWing1/DragonLeftWing2/DragonLeftWing2End
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonNeck
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonNeck/DragonNeck1
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonNeck/DragonNeck1/DragonHead
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonNeck/DragonNeck1/DragonHead/DragonJaw
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonNeck/DragonNeck1/DragonHead/DragonJaw/DragonJawEnd
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonRightArm
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonRightWing
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonRightWing/DragonRightWing1
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonRightWing/DragonRightWing1/DragonRightWing2
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonSpin/DragonCoral/DragonRightWing/DragonRightWing1/DragonRightWing2/DragonRightWing2End
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonTail
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonTail/DragonTail1
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonTail/DragonTail1/DragonTail2
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonTail/DragonTail1/DragonTail2/DragonTail3
+        weight: 1
+      - path: Dragon_Ctrl/Dragon_scale/DragonHips/DragonTail/DragonTail1/DragonTail2/DragonTail3/DragonTail4
+        weight: 1
+      - path: transform1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

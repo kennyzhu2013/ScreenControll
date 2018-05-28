@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: c3291167387220b4183c22a81496dec8
+timeCreated: 1512635718
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Coral
+    100002: Eagle
+    100004: //RootNode
+    100006: eagle_msh
+    100008: Head
+    100010: Hips
+    100012: Left_Arm
+    100014: Left_Elbow
+    100016: Left_Finger
+    100018: Left_Finger 1
+    100020: Left_Foot
+    100022: Left_Hand
+    100024: Left_Knee
+    100026: Left_Leg
+    100028: Neck
+    100030: Neck1
+    100032: Right_Arm
+    100034: Right_Elbow
+    100036: Right_Finger
+    100038: Right_Finger 1
+    100040: Right_Foot
+    100042: Right_Hand
+    100044: Right_Knee
+    100046: Right_Leg
+    100048: Spin
+    100050: Spin1
+    100052: Tail
+    100054: Tail_end
+    400000: Coral
+    400002: Eagle
+    400004: //RootNode
+    400006: eagle_msh
+    400008: Head
+    400010: Hips
+    400012: Left_Arm
+    400014: Left_Elbow
+    400016: Left_Finger
+    400018: Left_Finger 1
+    400020: Left_Foot
+    400022: Left_Hand
+    400024: Left_Knee
+    400026: Left_Leg
+    400028: Neck
+    400030: Neck1
+    400032: Right_Arm
+    400034: Right_Elbow
+    400036: Right_Finger
+    400038: Right_Finger 1
+    400040: Right_Foot
+    400042: Right_Hand
+    400044: Right_Knee
+    400046: Right_Leg
+    400048: Spin
+    400050: Spin1
+    400052: Tail
+    400054: Tail_end
+    4300000: eagle_msh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: eagle_msh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 120
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Eagle
+        weight: 1
+      - path: Eagle/Hips
+        weight: 1
+      - path: Eagle/Hips/Left_Leg
+        weight: 1
+      - path: Eagle/Hips/Left_Leg/Left_Knee
+        weight: 1
+      - path: Eagle/Hips/Left_Leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Eagle/Hips/Left_Leg/Left_Knee/Left_Foot/Left_Finger
+        weight: 1
+      - path: Eagle/Hips/Right_Leg
+        weight: 1
+      - path: Eagle/Hips/Right_Leg/Right_Knee
+        weight: 1
+      - path: Eagle/Hips/Right_Leg/Right_Knee/Right_Foot
+        weight: 1
+      - path: Eagle/Hips/Right_Leg/Right_Knee/Right_Foot/Right_Finger
+        weight: 1
+      - path: Eagle/Hips/Spin
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Left_Arm
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Left_Arm/Left_Elbow
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Left_Arm/Left_Elbow/Left_Hand
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Left_Arm/Left_Elbow/Left_Hand/Left_Finger
+          1
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Neck
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Neck/Neck1
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Neck/Neck1/Head
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Right_Arm
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Right_Arm/Right_Elbow
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Right_Arm/Right_Elbow/Right_Hand
+        weight: 1
+      - path: Eagle/Hips/Spin/Spin1/Coral/Right_Arm/Right_Elbow/Right_Hand/Right_Finger
+          1
+        weight: 1
+      - path: Eagle/Hips/Tail
+        weight: 1
+      - path: Eagle/Hips/Tail/Tail_end
+        weight: 1
+      - path: eagle_msh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

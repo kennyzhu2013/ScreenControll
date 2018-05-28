@@ -1,0 +1,224 @@
+fileFormatVersion: 2
+guid: 2c67dff7b10ac124582f15ab8dba3d87
+timeCreated: 1512635787
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dziob
+    100002: Dziob_end
+    100004: Head
+    100006: Hips
+    100008: Left_Foot
+    100010: LeftFoot1
+    100012: LeftFoot_end
+    100014: LeftLeg
+    100016: LeftUpLeg
+    100018: LeftWing
+    100020: LeftWing1
+    100022: LeftWing_end
+    100024: Neck
+    100026: Neck1
+    100028: Neck2
+    100030: Right_Foot
+    100032: RightFoot1
+    100034: RightFoot_end
+    100036: RightLeg
+    100038: RightUpLeg
+    100040: RightWing
+    100042: RightWing1
+    100044: RightWing_end
+    100046: Spin
+    100048: //RootNode
+    100050: Stork_Mesh1
+    100052: Tail
+    100054: Tail1
+    100056: Tail2
+    100058: Tail_end
+    400000: Dziob
+    400002: Dziob_end
+    400004: Head
+    400006: Hips
+    400008: Left_Foot
+    400010: LeftFoot1
+    400012: LeftFoot_end
+    400014: LeftLeg
+    400016: LeftUpLeg
+    400018: LeftWing
+    400020: LeftWing1
+    400022: LeftWing_end
+    400024: Neck
+    400026: Neck1
+    400028: Neck2
+    400030: Right_Foot
+    400032: RightFoot1
+    400034: RightFoot_end
+    400036: RightLeg
+    400038: RightUpLeg
+    400040: RightWing
+    400042: RightWing1
+    400044: RightWing_end
+    400046: Spin
+    400048: //RootNode
+    400050: Stork_Mesh1
+    400052: Tail
+    400054: Tail1
+    400056: Tail2
+    400058: Tail_end
+    4300000: Stork_Mesh1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Stork_Mesh1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 190
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/Left_Foot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/Left_Foot/LeftFoot1
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/Left_Foot/LeftFoot1/LeftFoot_end
+        weight: 1
+      - path: Hips/LeftWing
+        weight: 1
+      - path: Hips/LeftWing/LeftWing1
+        weight: 1
+      - path: Hips/LeftWing/LeftWing1/LeftWing_end
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/Right_Foot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/Right_Foot/RightFoot1
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/Right_Foot/RightFoot1/RightFoot_end
+        weight: 1
+      - path: Hips/RightWing
+        weight: 1
+      - path: Hips/RightWing/RightWing1
+        weight: 1
+      - path: Hips/RightWing/RightWing1/RightWing_end
+        weight: 1
+      - path: Hips/Spin
+        weight: 1
+      - path: Hips/Spin/Neck
+        weight: 1
+      - path: Hips/Spin/Neck/Neck1
+        weight: 1
+      - path: Hips/Spin/Neck/Neck1/Neck2
+        weight: 1
+      - path: Hips/Spin/Neck/Neck1/Neck2/Head
+        weight: 1
+      - path: Hips/Spin/Neck/Neck1/Neck2/Head/Dziob
+        weight: 1
+      - path: Hips/Spin/Neck/Neck1/Neck2/Head/Dziob/Dziob_end
+        weight: 1
+      - path: Hips/Tail
+        weight: 1
+      - path: Hips/Tail/Tail1
+        weight: 1
+      - path: Hips/Tail/Tail1/Tail2
+        weight: 1
+      - path: Hips/Tail/Tail1/Tail2/Tail_end
+        weight: 1
+      - path: Stork_Mesh1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

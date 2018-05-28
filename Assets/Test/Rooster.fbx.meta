@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 3144b6dc12a34f24aa62a5f19ed2019b
+timeCreated: 1512635771
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beak
+    100002: Cockscomb
+    100004: Coral
+    100006: Head
+    100008: Hips
+    100010: left
+    100012: Left_Arm
+    100014: Left_Elbow
+    100016: Left_Finger
+    100018: Left_Foot
+    100020: Left_Knee
+    100022: Left_Leg
+    100024: Left_Neck_attack02
+    100026: Neck
+    100028: Neck1
+    100030: Neck_attack
+    100032: Neck_attack01
+    100034: Right_Arm
+    100036: Right_Elbow
+    100038: Right_Finger
+    100040: Right_Foot
+    100042: Right_Knee
+    100044: Right_Leg
+    100046: //RootNode
+    100048: Rooster_msh
+    100050: Rright_Neck_attack02
+    100052: Spin
+    100054: Spin1
+    100056: Tail
+    100058: Tail_01
+    100060: Tail_end
+    400000: Beak
+    400002: Cockscomb
+    400004: Coral
+    400006: Head
+    400008: Hips
+    400010: left
+    400012: Left_Arm
+    400014: Left_Elbow
+    400016: Left_Finger
+    400018: Left_Foot
+    400020: Left_Knee
+    400022: Left_Leg
+    400024: Left_Neck_attack02
+    400026: Neck
+    400028: Neck1
+    400030: Neck_attack
+    400032: Neck_attack01
+    400034: Right_Arm
+    400036: Right_Elbow
+    400038: Right_Finger
+    400040: Right_Foot
+    400042: Right_Knee
+    400044: Right_Leg
+    400046: //RootNode
+    400048: Rooster_msh
+    400050: Rright_Neck_attack02
+    400052: Spin
+    400054: Spin1
+    400056: Tail
+    400058: Tail_01
+    400060: Tail_end
+    4300000: Rooster_msh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Rooster_msh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/Left_Leg
+        weight: 1
+      - path: Hips/Left_Leg/Left_Knee
+        weight: 1
+      - path: Hips/Left_Leg/Left_Knee/Left_Foot
+        weight: 1
+      - path: Hips/Left_Leg/Left_Knee/Left_Foot/Left_Finger
+        weight: 1
+      - path: Hips/Right_Leg
+        weight: 1
+      - path: Hips/Right_Leg/Right_Knee
+        weight: 1
+      - path: Hips/Right_Leg/Right_Knee/Right_Foot
+        weight: 1
+      - path: Hips/Right_Leg/Right_Knee/Right_Foot/Right_Finger
+        weight: 1
+      - path: Hips/Spin
+        weight: 1
+      - path: Hips/Spin/Spin1
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Left_Arm
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Left_Arm/Left_Elbow
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1/Head
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1/Head/Beak
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1/Head/Cockscomb
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1/Left_Neck_attack02
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1/Neck_attack
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1/Neck_attack01
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Neck/Neck1/Rright_Neck_attack02
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Right_Arm
+        weight: 1
+      - path: Hips/Spin/Spin1/Coral/Right_Arm/Right_Elbow
+        weight: 1
+      - path: Hips/Tail
+        weight: 1
+      - path: Hips/Tail/Tail_01
+        weight: 1
+      - path: Hips/Tail/Tail_01/Tail_end
+        weight: 1
+      - path: left
+        weight: 1
+      - path: Rooster_msh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

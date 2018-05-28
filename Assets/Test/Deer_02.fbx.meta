@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 4f7c487f0fb962f42b8a8e0d9146930c
+timeCreated: 1512635681
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Deer_head
+    100004: Deer_hips
+    100006: Deer_leftArm
+    100008: Deer_leftHip
+    100010: Deer_leftHip1
+    100012: Deer_leftLeg
+    100014: Deer_leftShoulder
+    100016: Deer_leftShoulder2
+    100018: Deer_leftUpArm
+    100020: Deer_leftUpLeg
+    100022: Deer_msh
+    100024: Deer_neck1
+    100026: Deer_neck2
+    100028: Deer_rightArm
+    100030: Deer_rightHip
+    100032: Deer_rightHip1
+    100034: Deer_rightLeg
+    100036: Deer_rightShoulder
+    100038: Deer_rightShoulder2
+    100040: Deer_rightUpArm
+    100042: Deer_rightUpLeg
+    100044: Deer_spine1
+    100046: Deer_spine2
+    100048: Deer_spine3
+    100050: DeerScale
+    400000: //RootNode
+    400002: Deer_head
+    400004: Deer_hips
+    400006: Deer_leftArm
+    400008: Deer_leftHip
+    400010: Deer_leftHip1
+    400012: Deer_leftLeg
+    400014: Deer_leftShoulder
+    400016: Deer_leftShoulder2
+    400018: Deer_leftUpArm
+    400020: Deer_leftUpLeg
+    400022: Deer_msh
+    400024: Deer_neck1
+    400026: Deer_neck2
+    400028: Deer_rightArm
+    400030: Deer_rightHip
+    400032: Deer_rightHip1
+    400034: Deer_rightLeg
+    400036: Deer_rightShoulder
+    400038: Deer_rightShoulder2
+    400040: Deer_rightUpArm
+    400042: Deer_rightUpLeg
+    400044: Deer_spine1
+    400046: Deer_spine2
+    400048: Deer_spine3
+    400050: DeerScale
+    4300000: Deer_msh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Deer_msh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: -1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Deer_msh
+        weight: 1
+      - path: DeerScale
+        weight: 1
+      - path: DeerScale/Deer_hips
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_leftHip1
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_leftHip1/Deer_leftHip
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_leftHip1/Deer_leftHip/Deer_leftUpLeg
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_leftHip1/Deer_leftHip/Deer_leftUpLeg/Deer_leftLeg
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_rightHip1
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_rightHip1/Deer_rightHip
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_rightHip1/Deer_rightHip/Deer_rightUpLeg
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_rightHip1/Deer_rightHip/Deer_rightUpLeg/Deer_rightLeg
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_leftShoulder2
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_leftShoulder2/Deer_leftShoulder
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_leftShoulder2/Deer_leftShoulder/Deer_leftUpArm
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_leftShoulder2/Deer_leftShoulder/Deer_leftUpArm/Deer_leftArm
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_neck1
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_neck1/Deer_neck2
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_neck1/Deer_neck2/Deer_head
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_rightShoulder2
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_rightShoulder2/Deer_rightShoulder
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_rightShoulder2/Deer_rightShoulder/Deer_rightUpArm
+        weight: 1
+      - path: DeerScale/Deer_hips/Deer_spine1/Deer_spine2/Deer_spine3/Deer_rightShoulder2/Deer_rightShoulder/Deer_rightUpArm/Deer_rightArm
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

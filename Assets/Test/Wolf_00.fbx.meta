@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 47141690197050241990d386688f3d19
+timeCreated: 1512635795
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Coral
+    100002: Head
+    100004: HeadEnd
+    100006: Hips
+    100008: joint2
+    100010: LeftArm
+    100012: LeftFinger
+    100014: LeftFinger 1
+    100016: LeftFoot
+    100018: LeftForeArm
+    100020: LeftHand
+    100022: LeftHandEnd
+    100024: LeftLeg
+    100026: LeftShoulder
+    100028: LeftUpLeg
+    100030: LOW_WOLF_msh
+    100032: Neck
+    100034: RightArm
+    100036: RightFinger
+    100038: RightFinger_End
+    100040: RightFoot
+    100042: RightForeArm
+    100044: RightHand1
+    100046: RightLeg
+    100048: RightShoulder
+    100050: RightUpLeg
+    100052: Spine
+    100054: Tail
+    100056: Tail01
+    100058: Tail02
+    100060: Tail03
+    100062: //RootNode
+    400000: Coral
+    400002: Head
+    400004: HeadEnd
+    400006: Hips
+    400008: joint2
+    400010: LeftArm
+    400012: LeftFinger
+    400014: LeftFinger 1
+    400016: LeftFoot
+    400018: LeftForeArm
+    400020: LeftHand
+    400022: LeftHandEnd
+    400024: LeftLeg
+    400026: LeftShoulder
+    400028: LeftUpLeg
+    400030: LOW_WOLF_msh
+    400032: Neck
+    400034: RightArm
+    400036: RightFinger
+    400038: RightFinger_End
+    400040: RightFoot
+    400042: RightForeArm
+    400044: RightHand1
+    400046: RightLeg
+    400048: RightShoulder
+    400050: RightUpLeg
+    400052: Spine
+    400054: Tail
+    400056: Tail01
+    400058: Tail02
+    400060: Tail03
+    400062: //RootNode
+    4300000: LOW_WOLF_msh
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: LOW_WOLF_msh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 652
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFinger
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftFinger/LeftFinger 1
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightFinger
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/RightFinger/RightFinger_End
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/Coral
+        weight: 1
+      - path: Hips/Spine/Coral/LeftShoulder
+        weight: 1
+      - path: Hips/Spine/Coral/LeftShoulder/LeftArm
+        weight: 1
+      - path: Hips/Spine/Coral/LeftShoulder/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/Spine/Coral/LeftShoulder/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/Spine/Coral/LeftShoulder/LeftArm/LeftForeArm/LeftHand/LeftHandEnd
+        weight: 1
+      - path: Hips/Spine/Coral/Neck
+        weight: 1
+      - path: Hips/Spine/Coral/Neck/Head
+        weight: 1
+      - path: Hips/Spine/Coral/Neck/Head/HeadEnd
+        weight: 1
+      - path: Hips/Spine/Coral/RightShoulder
+        weight: 1
+      - path: Hips/Spine/Coral/RightShoulder/RightArm
+        weight: 1
+      - path: Hips/Spine/Coral/RightShoulder/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/Spine/Coral/RightShoulder/RightArm/RightForeArm/RightHand1
+        weight: 1
+      - path: Hips/Spine/Coral/RightShoulder/RightArm/RightForeArm/RightHand1/joint2
+        weight: 1
+      - path: Hips/Tail
+        weight: 1
+      - path: Hips/Tail/Tail01
+        weight: 1
+      - path: Hips/Tail/Tail01/Tail02
+        weight: 1
+      - path: Hips/Tail/Tail01/Tail02/Tail03
+        weight: 1
+      - path: LOW_WOLF_msh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

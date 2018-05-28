@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: f5beeea8c2ec4114dbfa13889256eda7
+timeCreated: 1512635328
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Aurochs_Head
+    100004: Aurochs_Hips
+    100006: Aurochs_joint1
+    100008: Aurochs_LefHand_end
+    100010: Aurochs_LefHand_end 1
+    100012: Aurochs_LeftArm
+    100014: Aurochs_LeftFoot
+    100016: Aurochs_LeftFoot_End
+    100018: Aurochs_LeftForeArm
+    100020: Aurochs_LeftHand
+    100022: Aurochs_LeftLeg
+    100024: Aurochs_LeftUpLeg
+    100026: aurochs_msh2
+    100028: Aurochs_Neck
+    100030: Aurochs_RightArm
+    100032: Aurochs_RightFoot
+    100034: Aurochs_RightFoot_end
+    100036: Aurochs_RightForeArm
+    100038: Aurochs_RightHand
+    100040: Aurochs_RightLeg
+    100042: Aurochs_RightUpLeg
+    100044: Aurochs_Skel_AnimAll00_left
+    100046: Aurochs_Spin
+    100048: Aurochs_Spin1
+    100050: Aurochs_Spin2
+    100052: Aurochs_Tail
+    100054: Aurochs_Tail1
+    100056: Aurochs_Tail2
+    100058: left
+    400000: //RootNode
+    400002: Aurochs_Head
+    400004: Aurochs_Hips
+    400006: Aurochs_joint1
+    400008: Aurochs_LefHand_end
+    400010: Aurochs_LefHand_end 1
+    400012: Aurochs_LeftArm
+    400014: Aurochs_LeftFoot
+    400016: Aurochs_LeftFoot_End
+    400018: Aurochs_LeftForeArm
+    400020: Aurochs_LeftHand
+    400022: Aurochs_LeftLeg
+    400024: Aurochs_LeftUpLeg
+    400026: aurochs_msh2
+    400028: Aurochs_Neck
+    400030: Aurochs_RightArm
+    400032: Aurochs_RightFoot
+    400034: Aurochs_RightFoot_end
+    400036: Aurochs_RightForeArm
+    400038: Aurochs_RightHand
+    400040: Aurochs_RightLeg
+    400042: Aurochs_RightUpLeg
+    400044: Aurochs_Skel_AnimAll00_left
+    400046: Aurochs_Spin
+    400048: Aurochs_Spin1
+    400050: Aurochs_Spin2
+    400052: Aurochs_Tail
+    400054: Aurochs_Tail1
+    400056: Aurochs_Tail2
+    400058: left
+    4300000: aurochs_msh2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: aurochs_msh2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 348
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Aurochs_Hips
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_LeftUpLeg
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_LeftUpLeg/Aurochs_LeftLeg
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_LeftUpLeg/Aurochs_LeftLeg/Aurochs_LeftFoot
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_LeftUpLeg/Aurochs_LeftLeg/Aurochs_LeftFoot/Aurochs_LeftFoot_End
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_RightUpLeg
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_RightUpLeg/Aurochs_RightLeg
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_RightUpLeg/Aurochs_RightLeg/Aurochs_RightFoot
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_RightUpLeg/Aurochs_RightLeg/Aurochs_RightFoot/Aurochs_RightFoot_end
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_LeftArm
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_LeftArm/Aurochs_LeftForeArm
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_LeftArm/Aurochs_LeftForeArm/Aurochs_LeftHand
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_LeftArm/Aurochs_LeftForeArm/Aurochs_LeftHand/Aurochs_LefHand_end
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_Neck
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_Neck/Aurochs_Head
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_Neck/Aurochs_Head/Aurochs_joint1
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_RightArm
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_RightArm/Aurochs_RightForeArm
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_RightArm/Aurochs_RightForeArm/Aurochs_RightHand
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Spin/Aurochs_Spin1/Aurochs_Spin2/Aurochs_RightArm/Aurochs_RightForeArm/Aurochs_RightHand/Aurochs_LefHand_end
+          1
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Tail
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Tail/Aurochs_Tail1
+        weight: 1
+      - path: Aurochs_Hips/Aurochs_Tail/Aurochs_Tail1/Aurochs_Tail2
+        weight: 1
+      - path: aurochs_msh2
+        weight: 1
+      - path: Aurochs_Skel_AnimAll00_left
+        weight: 1
+      - path: left
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
